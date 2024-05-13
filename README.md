@@ -1,1 +1,1 @@
-# MySQL Kafka S3 Redshift Pipeline
+## MySQL Kafka S3 Redshift Pipeline
