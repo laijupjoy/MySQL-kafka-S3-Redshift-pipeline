@@ -1,6 +1,5 @@
 ## MySQL Kafka S3 Redshift Pipeline
-The MySQL Kafka S3 Redshift Pipeline enables real-time data transfer from MySQL to Redshift. Leveraging Kafka for streaming, S3 for storage, and Redshift for analytics, it ensures efficient, scalab!
-le, and seamless Data integration.
+The MySQL Kafka S3 Redshift Pipeline enables real-time data transfer from MySQL to Redshift. Leveraging Kafka for streaming, S3 for storage, and Redshift for analytics, it ensures efficient, scalable, and seamless Data integration.
 
 ## Architecture
 
